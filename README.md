@@ -1,7 +1,7 @@
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MashkaCoder&show_icons=true) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xali1ove&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xali1ove)](https://github.com/xali1ove/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xali1ove&layout=compact&theme=dark)](https://github.com/xali1ove/github-readme-stats)
 <!--
 **xali1ove/xali1ove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
