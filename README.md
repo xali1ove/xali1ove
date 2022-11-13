@@ -1,6 +1,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xali1ove&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/xali1ove/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xali1ove&theme=tokyonight)](https://github.com/xali1ove/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xali1ove&theme=tokyonight)](https://github.com/xali1ove/github-readme-stats) <br>
+My <a href="https://leetcode.com/xali1ove/">LeetCode<a/> 🧠 <br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xali1ove&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **xali1ove/xali1ove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
