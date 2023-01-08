@@ -1,6 +1,6 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xali1ove&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/xali1ove/github-readme-stats) <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xali1ove&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/xali1ove/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xali1ove&layout=compact&theme=tokyonight)](https://github.com/xali1ove/github-readme-stats) <br>
   [![GitHub Streak](https://streak-stats.demolab.com?user=xali1ove&theme=dark)](https://git.io/streak-stats) <br>
   My <a href="https://leetcode.com/xali1ove/">LeetCode<a/> 🧠 <br>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xali1ove&theme=dark)](https://github.com/KnlnKS/leetcode-stats) <br>
